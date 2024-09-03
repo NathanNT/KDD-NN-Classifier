@@ -25,11 +25,6 @@ Ce projet implémente deux méthodes de classification du trafic réseau à part
   - Indice de Rand ajusté, précision.
   - Visualisation 3D des clusters après PCA.
 
-### Exécution
-
-- **Réseau de Neurones :** `python neural_network_classification.py`
-- **KMeans avec PCA :** `python kmeans_clustering_pca.py`
-
 ### Données
 
 - Dataset KDD a placer dans `./datasets/KDD/` sous les noms `KDDTrain+.txt` et `KDDTest+.txt`.
